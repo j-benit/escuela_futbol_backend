@@ -1,5 +1,5 @@
 {
-  "name": "Java 17 Devcontainer",
+  "name": "Java 21.0.7 Devcontainer",
   "image": "mcr.microsoft.com/devcontainers/java:17",
   "postCreateCommand": "mvn clean install"
 }
